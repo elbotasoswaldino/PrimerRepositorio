@@ -1,5 +1,5 @@
 # PrimerRepositorio
-##Primer repositorio de prueba para la CH61
+## Primer repositorio de prueba para la CH61
 
 Este repositorio es para probar el **flujo local** y **remoto** con el comando git
 
